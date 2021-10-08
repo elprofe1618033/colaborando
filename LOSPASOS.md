@@ -1,4 +1,4 @@
-PASOS COMUNES DEL FLUJO DE TRABAJO EN GITHUB
+__PASOS COMUNES DEL FLUJO DE TRABAJO EN GITHUB__
 
 Ahora que ya sabemos algo de git, revisa [este enlace](https://victorhckinthefreeworld.com/2018/08/09/6-errores-comunes-al-utilizar-git-y-como-solucionarlos/)
 
