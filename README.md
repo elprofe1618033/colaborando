@@ -1,5 +1,5 @@
 # colaborando
-0.-  Santi López: [Mi repositorio público](https://github.com/srlopez/).
+0.-  Santi López: [Mi repositorio público](https://github.com/srlopez/).  
 1.-  
 2.-  
 3.-  
