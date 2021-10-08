@@ -1,4 +1,8 @@
 # colaborando
+
+Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar la línea con dos espacios.  
+
+
 0.-  Santi López: [Mi repositorio público](https://github.com/srlopez/).  
 1.-  
 2.-  
