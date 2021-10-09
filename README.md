@@ -4,7 +4,7 @@ Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar l
 
 
 0.-  Santi López: [Mi repositorio público](https://github.com/srlopez/).  
-1.-  
+1.-  Christian Crespo: [Repositorio](https://github.com/krs98/colaborando)  
 2.-  
 3.-  
 4.-  
