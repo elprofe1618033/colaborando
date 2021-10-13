@@ -8,7 +8,7 @@ Los pasos normales, en secuencia y ordenados por actor son:
 - CREAR ISSUE/INCIDENCIA; necesitamos alguien que se encarge de alguna feature  
 
 **COLABORADOR**  
-- COMENTAR ISSUE; Indicas que puedes colaborar y asumir la responsabilidad
+- COMENTAR O CREAR ISSUE; Indicas que puedes colaborar y asumir la responsabilidad
 - FORK; Clonas el proyecto en tu GitHub  
 
 **PROPIETARIO**  
