@@ -25,7 +25,7 @@ Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar l
 19.-  
 20.-  
 21.-  
-22.-  
+22.-    
+24.-  Ander Leonardo Sanchez Silva  
 23.-  Cristian Roca Flores. Mi repo: https://github.com/CristianRoca94  
-24.-  
 25.-  
