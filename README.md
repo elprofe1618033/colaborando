@@ -9,7 +9,7 @@ Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar l
 3.-  
 4.-  
 5.-  
-6.-  
+6.-  David Barberio  
 7.-  
 8.-  
 9.-  
