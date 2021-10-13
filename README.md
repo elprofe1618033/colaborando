@@ -23,7 +23,8 @@ Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar l
 18.-  Jairo Morocho  
 19.-  
 20.-  
+25.-  Javi Urrutia
 21.-  Marcos      
 24.-  Ander Leonardo Sanchez Silva  
 23.-  Cristian Roca Flores. Mi repo: https://github.com/CristianRoca94  
-25.-  
+
