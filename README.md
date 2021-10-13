@@ -7,7 +7,7 @@ Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar l
 1.-  
 2.-  
 3.-  
-4.-  Gonzalo Alvarez Pablos  
+4.-  Gonzalo Alvarez Pabloss   
 5.-  
 6.-  
 7.-  
