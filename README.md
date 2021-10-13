@@ -13,19 +13,19 @@ Recuerda que si quieres un salto de linea en texto sin formatear, debes acabar l
 7.-  
 8.-  
 9.-  
-10.-  
-11.-  
+10.-   
 12.- Martin Fagoaga: [Mi repositorio público](https://github.com/martinfgar/)  
+11.-  Christian Crespo  
 13.-  
 14.-  
 15.-  
 16.-  
 17.-  
-18.-  
+18.-  Jairo Morocho  
 19.-  
 20.-  
 21.-  
 22.-  
-23.-  
+23.-  Cristian Roca Flores. Mi repo: https://github.com/CristianRoca94  
 24.-  
 25.-  
